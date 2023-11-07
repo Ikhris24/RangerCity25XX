@@ -1,2 +1,2 @@
-# UntitledQuakeSPMap
-This is an Untitled Singleplayer map for Quake. I'm thinking of what the title and theme would be.
+# Ranger City 25XX
+This is Ranger City 25XX, my upcoming singleplayer map for Quake.
