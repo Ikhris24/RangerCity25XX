@@ -5,7 +5,7 @@
 "mapversion" "220"
 "classname" "worldspawn"
 "wad" "C:/Users/Ikhri/Downloads/quakedev/wads/prototype_1_3.wad;../wads/devqtex_v2.wad"
-"message" "can't go there."
+"message" ""
 // brush 0
 {
 ( -2992 -816 -16 ) ( -2992 -815 -16 ) ( -2992 -816 -15 ) 128_grey_2 [ 0 -1 0 80 ] [ 0 0 -1 0 ] 0 1 1
@@ -604,8 +604,8 @@
 }
 // entity 5
 {
-"classname" "trigger_once"
-"message" "can't go there"
+"classname" "trigger_multiple"
+"message" "can't go there."
 // brush 0
 {
 ( -3440 0 384 ) ( -3440 132 320 ) ( -3440 132 384 ) 128_green_2 [ -1.7813044351234226e-16 -1.4545454545454544 0 63.999985 ] [ 0 0 -1 -32 ] 0 1 1
