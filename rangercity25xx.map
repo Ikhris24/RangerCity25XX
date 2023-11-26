@@ -604,8 +604,9 @@
 }
 // entity 5
 {
-"classname" "trigger_once"
+"classname" "trigger_multiple"
 "message" "can't go there."
+"wait" "5"
 // brush 0
 {
 ( -3344 0 384 ) ( -3344 132 320 ) ( -3344 132 384 ) 128_green_2 [ -1.7813044351234226e-16 -1.4545454545454544 0 63.999985 ] [ 0 0 -1 -32 ] 0 1 1
