@@ -6,6 +6,8 @@
 "classname" "worldspawn"
 "wad" "C:/Users/Ikhri/Downloads/quakedev/wads/prototype_1_3.wad;../wads/devqtex_v2.wad"
 "message" ""
+"_tb_mod" "pd_300"
+"_tb_def" "external:../quakespasm/pd_300/development/fgd_def/pd_300.fgd"
 // brush 0
 {
 ( -2992 -816 -16 ) ( -2992 -815 -16 ) ( -2992 -816 -15 ) 128_grey_2 [ 0 -1 0 80 ] [ 0 0 -1 0 ] 0 1 1
