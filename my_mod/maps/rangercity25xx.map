@@ -4308,6 +4308,7 @@
 "origin" "2688 -1264 -216"
 "angle" "180"
 "targetname" "grunt1"
+"drop_item" "3"
 }
 // entity 12
 {
@@ -4334,6 +4335,7 @@
 "angle" "180"
 "style" "3"
 "targetname" "enforcer"
+"drop_item" "3"
 }
 // entity 15
 {
@@ -4350,22 +4352,25 @@
 "angle" "180"
 "style" "3"
 "targetname" "group"
+"drop_item" "3"
 }
 // entity 17
 {
 "classname" "monster_enforcer"
-"origin" "10224 -960 -216"
+"origin" "10224 -960 -212"
 "angle" "180"
 "style" "3"
 "targetname" "group"
+"drop_item" "3"
 }
 // entity 18
 {
 "classname" "monster_enforcer"
-"origin" "10064 -496 -216"
+"origin" "10064 -496 -208"
 "angle" "180"
 "style" "3"
 "targetname" "group"
+"drop_item" "0"
 }
 // entity 19
 {
@@ -4594,6 +4599,7 @@
 "health" "110"
 "berserk" "1"
 "style" "3"
+"drop_item" "4"
 }
 // entity 46
 {
@@ -4601,6 +4607,7 @@
 "origin" "12912 -224 -208.47"
 "angle" "270"
 "health" "75"
+"drop_item" "6"
 }
 // entity 47
 {
