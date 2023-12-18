@@ -19944,5 +19944,6 @@
 // entity 1249
 {
 "classname" "info_intermission"
-"origin" "9052 -1112 145.122"
+"origin" "9076, -1212, 148"
+"mangle" "20 40 0"
 }
